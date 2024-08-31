@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "linked_int.h"
-node*start = NULL;
+
 int main()
 {
 start=creat_list(start);
